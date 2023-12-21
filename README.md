@@ -52,7 +52,7 @@ Google colab에서도 Markdown 되어 있는대로 실행하면 됩니다.
 
    
 ## 작업 환경
-작업 환경 세팅은 requirement.txt으로 만들어 두었습니다.
+작업 환경 세팅은 requirements_opensouceAI.txt으로 만들어 두었습니다.
 
 
 

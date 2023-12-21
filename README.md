@@ -11,11 +11,7 @@
 [사전 학습 이미지 분류 모델](https://www.dropbox.com/sh/dvatkpjl0sn79kn/AAC9L4puJ_sdFUkDZfr5SFkLa?dl=0)
 
 
-오토인코더는 코랩 환경에서 진행하였습니다.
-[프로젝트 AE](https://colab.research.google.com/drive/107N6lA76RsqeA-cb5Lgp2syy_BxfSJRn?usp=sharing)
 
-오토인코더 + PSD 코랩에서 진행하였습니다.
-[Our Method + PSD](https://colab.research.google.com/drive/1bXt-Vi_QGN5JuYA14IFbt2VQlBzUnVfg?usp=sharing)
 
 ## 실행 방법
 
@@ -23,11 +19,24 @@
 코드가 옛날꺼라 약간의 수정을 하여 수정본을 깃허브에 업로드하였습니다.
 
 ```bash
+pip install requirements_opensouceAI.txt 
+```
+환경 세팅 후
+
+```bash
 cd one-pixel-attack-keras
-jupyter notebook 1_one-pixel-attack-cifar10.ipynb
+jupyter notebook
 ```
 
+jupyter notebook이 실행되고, 창이 뜨면, 오픈소스AI 제출용 코드에 들어가서 markdown 되어 있는대로 실행하면 됩니다.
+Google colab에서도 Markdown 되어 있는대로 실행하면 됩니다.
+순서대로 코드를 정리해두어서 차례대로 실행하면 됩니다.
 
+오토인코더는 코랩 환경에서 진행하였습니다.
+[프로젝트 AE](https://colab.research.google.com/drive/107N6lA76RsqeA-cb5Lgp2syy_BxfSJRn?usp=sharing)
+
+오토인코더 + PSD 코랩에서 진행하였습니다.
+[Our Method + PSD](https://colab.research.google.com/drive/1bXt-Vi_QGN5JuYA14IFbt2VQlBzUnVfg?usp=sharing)
 
 
 

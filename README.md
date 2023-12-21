@@ -3,13 +3,19 @@
 
 
 
-## 실행에 사용한 코드의 출처
+## 실험에 사용한 코드의 출처
 [One-Pixel attack 코드](https://github.com/Hyperparticle/one-pixel-attack-keras.git) 에 있습니다.
 해당 github에서 제공하는 이미지 분류 모델과 코드를 사용하였습니다.
 
 이미지 분류 모델의 경우 아래 링크에서 다운로드 후 /networks에 models 폴더를 만들고 넣어주어야 합니다. (용량이 커서 업로드 되지 않음)
 [사전 학습 이미지 분류 모델](https://www.dropbox.com/sh/dvatkpjl0sn79kn/AAC9L4puJ_sdFUkDZfr5SFkLa?dl=0)
 
+
+오토인코더는 코랩 환경에서 진행하였습니다.
+[프로젝트 AE](https://colab.research.google.com/drive/107N6lA76RsqeA-cb5Lgp2syy_BxfSJRn?usp=sharing)
+
+오토인코더 + PSD 코랩에서 진행하였습니다.
+[Our Method + PSD](https://colab.research.google.com/drive/1bXt-Vi_QGN5JuYA14IFbt2VQlBzUnVfg?usp=sharing)
 
 ## 실행 방법
 
@@ -21,8 +27,8 @@ cd one-pixel-attack-keras
 jupyter notebook 1_one-pixel-attack-cifar10.ipynb
 ```
 
-오토인코더는 코랩 환경에서 진행하였습니다.
-[프로젝트 AE](https://colab.research.google.com/drive/107N6lA76RsqeA-cb5Lgp2syy_BxfSJRn?usp=sharing)
+
+
 
 
 ## 전체적인 실험 환경 요약

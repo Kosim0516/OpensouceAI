@@ -8,6 +8,8 @@
 해당 github에서 제공하는 이미지 분류 모델과 코드를 사용하였습니다.
 
 사전 학습된 이미지 분류 모델의 경우 아래 링크에서 다운로드 후 /networks에 models 폴더를 만들고 넣어주어야 합니다. (용량이 커서 업로드 되지 않음) 이 또한 위 논문의 github에서 가져왔습니다.
+
+
 [사전 학습 이미지 분류 모델](https://www.dropbox.com/sh/dvatkpjl0sn79kn/AAC9L4puJ_sdFUkDZfr5SFkLa?dl=0)
 
 

@@ -59,7 +59,7 @@ Google colab에서도 Markdown 되어 있는대로 실행하면 됩니다.
 
 대표적인 것 몇 가지
 - tensorflow==2.7.0
-- python=3.7.0
+- python==3.7.0
 - jupyter notebook
 
 

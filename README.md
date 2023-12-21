@@ -7,7 +7,7 @@
 [One-Pixel attack 코드](https://github.com/Hyperparticle/one-pixel-attack-keras.git) 에 있습니다.
 해당 github에서 제공하는 이미지 분류 모델과 코드를 사용하였습니다.
 
-```
+```bash
 git clone https://github.com/Hyperparticle/one-pixel-attack-keras.git
 cd ./one-pixel-attack-keras
 ```

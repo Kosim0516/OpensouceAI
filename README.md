@@ -31,6 +31,12 @@ jupyter notebook
 ```
 
 ## 코드 실행 our method
+
+** 주의할 점: 이미지 디렉토리에 대한 설정을 사용자 로컬 환경에 맞추어 주어야 합니다.
+
+
+
+
 1. 이미지 불러오기(오토인코더)
 
 ```bash
@@ -481,6 +487,10 @@ Google colab에서도 Markdown 되어 있는대로 실행하면 됩니다.
 순서대로 코드를 정리해두어서 차례대로 실행하면 됩니다.
 -> Windows 아나콘다 가상환경에서 진행
 
+
+
+
+코랩에서는 위에서부터 차례대로 실행시키면 됩니다.
 
 오토인코더는 코랩 환경에서 진행하였습니다.
 [프로젝트 AE](https://colab.research.google.com/drive/107N6lA76RsqeA-cb5Lgp2syy_BxfSJRn?usp=sharing)

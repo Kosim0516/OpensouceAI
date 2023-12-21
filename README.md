@@ -31,7 +31,7 @@ jupyter notebook 1_one-pixel-attack-cifar10.ipynb
 
 
 
-## 전체적인 실험 환경 요약
+## 전체적인 실험 과정 요약
 
 1. 아나콘다 가상환경, jupyter notebook 실행
 2. 공격 샘플 생성

@@ -33,6 +33,8 @@ jupyter notebook
 jupyter notebook이 실행되고, 창이 뜨면, 오픈소스AI 제출용 코드에 들어가서 markdown 되어 있는대로 실행하면 됩니다.
 Google colab에서도 Markdown 되어 있는대로 실행하면 됩니다.
 순서대로 코드를 정리해두어서 차례대로 실행하면 됩니다.
+-> Windows 아나콘다 가상환경에서 진행
+
 
 오토인코더는 코랩 환경에서 진행하였습니다.
 [프로젝트 AE](https://colab.research.google.com/drive/107N6lA76RsqeA-cb5Lgp2syy_BxfSJRn?usp=sharing)
